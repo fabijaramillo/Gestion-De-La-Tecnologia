@@ -1,7 +1,5 @@
 # Gestion-De-La-Tecnologia
-
-[6:59 p. m., 3/9/2024] Fabian Jaramillo: <!DOCTYPE html>
-<html lang="es">
+ <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,10 +23,12 @@
 
     <h2>1. Definición de gestión de tecnología</h2>
     <p>
-        La gestión de tecnología es el proceso de planificar, implementar, administrar y evaluar los recursos tecnológicos en una or…
-[7:05 p. m., 3/9/2024] Fabian Jaramillo: Claro, aquí tienes el código HTML con un poco más de estilos para mejorar la presentación:
+        La gestión de tecnología es el proceso de planificar, desarrollar, implementar y supervisar las 
+        tecnologías en una organización para alinear estas con los objetivos estratégicos. Implica la adquisición, implementación, mantenimiento y evaluación 
+        continua de recursos tecnológicos para maximizar su valor y apoyar el éxito del negocio.
 
-html
+
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -55,9 +55,9 @@ html
         }
         p {
             background…
-[7:12 p. m., 3/9/2024] Fabian Jaramillo: Aquí tienes el código HTML actualizado con una sección adicional en cada punto que explica para qué es y para qué sirve cada uno:
 
-```html
+
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
